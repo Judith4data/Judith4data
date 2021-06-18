@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Judith4data
+- 👋 Hi, I’m Judith Hassan
 - 👀 I’m interested in political, communications and development research
 - 🌱 I’m currently learning Excel, Power BI, and Python
 - 💞️ I’m looking to collaborate on shared interests
