@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Judith Hassan
 - 👀 I’m interested in political, communications and development research
-- 🌱 I’m currently learning Excel, Power BI, and Python
+- 🌱 I work with Excel, SPSS and Tableau. Currently learning R.
 - 💞️ I’m looking to collaborate on shared interests
 - 📫 How to reach me judithgarba.hassan@gmail.com
 
